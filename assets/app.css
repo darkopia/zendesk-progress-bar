@@ -1,0 +1,40 @@
+.meter {
+  font-size: .6em;
+  width: 100%;
+  height: 1.8em;
+  border: 1px solid #C0C0C0;
+}
+
+.message, .spinner {
+	padding-top: 10px;
+}
+
+.message, .congrats {
+  padding-bottom: 5px;
+}
+
+.progress {
+  margin-bottom: 5px;
+}
+
+.progress .bar {
+  background-color: #78A300;
+}
+
+.author-link {
+  margin-top: 10px;
+}
+
+input.enter-goal {
+  padding: 1% 5px 1% 5px;
+  width: 75%;
+}
+
+button.enter-goal {
+  width: 20%;
+  margin-top: 0;
+}
+
+.congrats img {
+  width: 100%;
+}
