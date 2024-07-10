@@ -6,8 +6,12 @@
     "url":  "https://github.com/jpalmieri"
   },
   "defaultLocale": "en",
-  "private": false,
-  "location": "ticket_sidebar",
+  "private": true,
+  "location": {
+      "support": {
+        "ticket_sidebar": "assets/iframe.html"
+      }
+    },
   "version": "0.2.0",
   "frameworkVersion": "2.0",
   "parameters": [
